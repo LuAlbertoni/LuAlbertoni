@@ -16,6 +16,11 @@ Busco constantemente aprimorar meus conhecimentos e me manter atualizado com as 
 
 Além disso, tenho paixão por compartilhar conhecimento e ajudar outros profissionais da área. Acredito que, por meio da colaboração e do intercâmbio de ideias, podemos alcançar resultados excepcionais e impulsionar o crescimento mútuo.
 
+<!-- GitHub Profile Summary Cards -->
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lualbertoni&theme=aura" alt="GitHub Profile Summary Cards" />
+</div>
+
 <!-- Social Links -->
 
 ## Me encontre em
@@ -36,9 +41,4 @@ Além disso, tenho paixão por compartilhar conhecimento e ajudar outros profiss
     <a href="https://linktr.ee/albertoni" target="_blank">
         <img src="https://img.shields.io/badge/Linktree-284c1c?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
     </a>
-</div>
-
-<!-- GitHub Profile Summary Cards -->
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lualbertoni&theme=aura" alt="GitHub Profile Summary Cards" />
 </div>
