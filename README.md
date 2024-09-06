@@ -4,11 +4,9 @@
   <img src="./img/dancing-duckdancing.gif" alt="Dancing Duck" width="10%" />
 </div>
 
-<!-- Bio -->
-
 ## Sobre Mim
 
-Olá, me chamo Luís! Sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC, moro em Álvares Machado e tenho <img src="https://lualbertoni.discloud.app/age" alt="Age" /> anos de idade.
+Olá, me chamo Luís! Sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC, moro em Álvares Machado e tenho <img src="http://89.117.148.234/age" alt="Idade" /> anos de idade.
 
 Sou um entusiasta do desenvolvimento web e tenho verdadeira paixão por criar automatizações que otimizam processos. Acredito que a tecnologia desempenha um papel fundamental em trazer impacto positivo para o mundo, facilitando a vida das pessoas e impulsionando o progresso.
 
@@ -16,12 +14,9 @@ Busco constantemente aprimorar meus conhecimentos e me manter atualizado com as 
 
 Além disso, tenho paixão por compartilhar conhecimento e ajudar outros profissionais da área. Acredito que, por meio da colaboração e do intercâmbio de ideias, podemos alcançar resultados excepcionais e impulsionar o crescimento mútuo.
 
-<!-- GitHub Profile Summary Cards -->
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lualbertoni&theme=aura" alt="GitHub Profile Summary Cards" />
 </div>
-
-<!-- Social Links -->
 
 ## Me encontre em
 
