@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Olá, me chamo Luís! Sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC, moro em Álvares Machado e tenho <img src="http://89.117.148.234/age" alt="Idade" /> anos de idade.
+Olá, me chamo Luís! Sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC, moro em Álvares Machado e tenho <img src="https://lualbertoni.dev/age" alt="Idade" /> anos de idade.
 
 Sou um entusiasta do desenvolvimento web e tenho verdadeira paixão por criar automatizações que otimizam processos. Acredito que a tecnologia desempenha um papel fundamental em trazer impacto positivo para o mundo, facilitando a vida das pessoas e impulsionando o progresso.
 
